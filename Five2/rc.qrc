@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ti.gif</file>
+        <file>ti2.gif</file>
+        <file>wav.wav</file>
+        <file>icon1.ico</file>
+    </qresource>
+</RCC>
